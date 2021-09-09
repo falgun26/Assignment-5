@@ -1,0 +1,19 @@
+input{
+    margin: 50px;
+    
+}
+div{
+    text-align: center; 
+}
+button{
+    
+}
+a{
+border: none;
+margin: auto;
+padding: 10px;
+text-decoration: none;
+float: center;
+font-size: large;
+}
+
